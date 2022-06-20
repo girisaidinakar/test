@@ -18,7 +18,7 @@ pipeline {
 
          stage("Deploy application") { 
          steps { 
-          sh 'echo "changepush"'          
+          sh 'echo "changeph"'          
           sh 'echo "deploying application..."'
          }
 
